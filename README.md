@@ -1,6 +1,6 @@
 # Introduction
 This project is a small recipe website.
-It was made for The Odin Project's [recipes project](https://www.theodinproject.com/lessons/foundations-recipes).
+It was made for The Odin Project's [Project: Recipe](https://www.theodinproject.com/lessons/foundations-recipes).
 
 ## The Skills I have learned
 * How to use git
