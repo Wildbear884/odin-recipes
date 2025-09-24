@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    background-color: rgb(253, 248, 240);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    margin-bottom: 4px;
+}
