@@ -17,3 +17,12 @@ h1 {
 li {
     margin-bottom: 4px;
 }
+
+a {
+    min-width: 44px;
+    max-height: 44px;
+}
+
+.home-link {
+  text-align: center;
+}
