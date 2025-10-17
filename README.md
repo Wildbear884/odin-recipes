@@ -6,3 +6,4 @@ It was made for The Odin Project's [Project: Recipe](https://www.theodinproject.
 * How to use git
 * How to give photos proper attribution
 * Making basic html webpages
+* Using CSS to style webpages
